@@ -197,7 +197,7 @@ public OnPlayerEnterRaceCheckpoint(playerid)
         new
             funcname[32];
 
-        strcat(funcname, "ecp_");
+        strcat(funcname, "ercp_");
         strcat(funcname, gsRaceCPName[playerid]);
 
         #if EC_AUTO_CLOSE_RACE_CHECKPOINT
