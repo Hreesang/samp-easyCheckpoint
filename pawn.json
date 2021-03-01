@@ -1,0 +1,9 @@
+{
+	"user": "Hreesang",
+	"repo": "samp-easyCheckpoint",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
